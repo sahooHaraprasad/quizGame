@@ -1,0 +1,10 @@
+@keyframes background-move {
+  from { background-position: 0 0; }
+  to { background-position: 100px 100px; }
+}
+
+body {
+  background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+  background-size: 400% 400%;
+  animation: background-move 10s infinite linear;
+}
