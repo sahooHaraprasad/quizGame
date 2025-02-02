@@ -1,8 +1,3 @@
-# React + Vite
+This Quiz Game is a React-based web application designed to test users' knowledge through interactive quizzes. Built with React, Tailwind CSS, it fetches quiz data from an external API and dynamically renders questions. The game includes a progress bar, countdown timer, scoring system, and level progression to enhance engagement. Users earn points for correct answers, leveling up as they progress. The app ensures a seamless experience with responsive design and error handling, making it a fun and educational tool. 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+vercel link: https://quizgame-henna-seven.vercel.app/
